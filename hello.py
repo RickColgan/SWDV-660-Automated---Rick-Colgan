@@ -6,6 +6,7 @@ def dooutput():
     print('assignment 3.')
 
 def main():
+    # changed the webhooks per class discussion board and checking to see if works
     dooutput()
 
 if __name__ == '__main__':
